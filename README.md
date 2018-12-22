@@ -9,7 +9,7 @@ Input options - currently we support only Text inputs.
 I would like to include other options including Speech and automated tasking.
 
 Desired Functionality
-      ### SYSTEM COMMANDS ######################################################
+<p>      ### SYSTEM COMMANDS ######################################################
       # [exit | [turn| power] off | restart | reload]
       # [sleep | stop | [mute | quiet | shut up] | unmute] [for x minutes]
       # [help | what can you do? | what can you show me?]
@@ -41,7 +41,7 @@ Desired Functionality
       # [when is | what day] is [<date> | <event> | <holiday> | <contacts birthday/anniversary>]      
       ##########################################################################
 
-Output options
+Output options<p>
 Currently we support Text output.
 Speech output has been experimented with, but I'm not happy with the overhead at the moment. 
 I would also like to include report options including gisting and webscraping.     
